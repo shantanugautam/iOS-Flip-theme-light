@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleName</key>
+	<string>iOSLight</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
@@ -12,21 +14,23 @@
 	<string>com.Growl.WebKit.iOSLight</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
-	<key>CFBundleName</key>
-	<string>iOSLight</string>
 	<key>CFBundlePackageType</key>
-	<string>GWKM</string>
+	<string>GWKS</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>CFBundleSignature</key>
-	<string>LOBA</string>
+	<string>GRRR</string>
 	<key>CFBundleVersion</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>CSResourcesFileMapped</key>
 	<string>yes</string>
+	<key>GrowlPluginAuthor</key>
+	<string>Shantanu Gautam (http://shantanu-gautam.com)</string>
 	<key>GrowlHasShadow</key>
 	<false/>
-	<key>GrowlPluginAuthor</key>
-	<string>http://shantanu-gautam.com</string>
+	<key>GrowlPaddingX</key>
+	<real>10.0</real>
+	<key>GrowlPaddingY</key>
+	<real>10.0</real>
 </dict>
 </plist>
