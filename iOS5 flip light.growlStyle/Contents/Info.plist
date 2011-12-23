@@ -30,7 +30,5 @@
 	<false/>
 	<key>GrowlPaddingX</key>
 	<real>10.0</real>
-	<key>GrowlPaddingY</key>
-	<real>10.0</real>
 </dict>
 </plist>
